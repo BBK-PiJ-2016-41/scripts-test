@@ -12,6 +12,7 @@ function globalScript() {
     */
     
     this.main = function () {
+	Logger.log("for the lols");
   
   // Export search term report and keyword performance report (exact match only)
   
