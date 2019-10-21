@@ -189,7 +189,7 @@ function globalScript() {
   if (postToSlack) {
     
    var slack = new SlackAPI({
-       webhookUrl : "https://hooks.slack.com/services/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"
+       webhookUrl : "REDACTED"
    });
    
    var usernames = "AdWordsBot";
